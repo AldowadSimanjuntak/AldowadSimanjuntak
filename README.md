@@ -1,11 +1,12 @@
-<h1 align="center">Hello 👋, I'm Aldowad Simanjuntak</h1>
+<h1 align="center">Hello Coders,  I'm Aldowad Simanjuntak</h1>
+
 <p align="center">
-  <img src="https://www.bing.com/th/id/OGC.8b35fef55fba1a201c9c7a11d3ec3d64?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f416610%2fscreenshots%2f4801105%2fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&ehk=jHHFsQPazqDd5nt3QW7%2b0gX0qLiQLNMcv%2fxeuKivQCs%3d" alt="Coding Desk Illustration" width="400">
+  <img src="https://www.bing.com/th/id/OGC.8b35fef55fba1a201c9c7a11d3ec3d64?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f416610%2fscreenshots%2f4801105%2fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&ehk=jHHFsQPazqDd5nt3QW7%2b0gX0qLiQLNMcv%2fxeuKivQCs%3d" alt="Coding Desk Illustration" width="600" height="400" >
 </p>
 
 <h3 align="center">A passionate Cloud & Backend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aldowadsimanjuntak&label=aldowad&color=0e75b6&style=flat" alt="aldowadsimanjuntak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aldowadsimanjuntak&label=Visitors&color=b4190e&style=flat" alt="aldowadsimanjuntak" /> </p>
 
 - 🌱 I’m currently learning **Backend Engineering**
 
@@ -14,6 +15,8 @@
 - 📫 How to reach me **aldowad02@gmail.com**
 
 - 📄 All About Me [https://www.linkedin.com/in/aldowad-alles-sandro-hamonangan-simanjuntak-1244ba279/](https://www.linkedin.com/in/aldowad-alles-sandro-hamonangan-simanjuntak-1244ba279/)
+  
+- 🌍  I'm based in Medan, Sumatera Utara, Indonesia
 
 - ⚡ Fun fact **I'm Gamers**
 
