@@ -1,26 +1,29 @@
 <h1 align="center">Hello Coders,  I'm Aldowad Simanjuntak</h1>
 
 <p align="center">
-  <img src="https://www.bing.com/th/id/OGC.8b35fef55fba1a201c9c7a11d3ec3d64?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f416610%2fscreenshots%2f4801105%2fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&ehk=jHHFsQPazqDd5nt3QW7%2b0gX0qLiQLNMcv%2fxeuKivQCs%3d" alt="Coding Desk Illustration" width="600" height="400" >
+  <img src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" width="600" height="400" >
 </p>
 
 <h3 align="center">A passionate Cloud & Backend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldowadsimanjuntak&label=Visitors&color=b4190e&style=flat" alt="aldowadsimanjuntak" /> </p>
 
+<img align="right" alt="jett" width="350" height="250" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif">
+
 - 🔭 I’m currently learning **Backend Engineering**
 
 - 💬 Ask me about **Oracle Cloud, Backend Development**
 
-- 📫 How to reach me : **aldowad02@gmail.com**
+- 📫 How to reach me : [![Gmail Badge](https://img.shields.io/badge/-Aldowad-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldowad02@gmail.com)](mailto:aldowad02@gmail.com)
 
-- 📄 All About Me  : https://www.linkedin.com/in/aldowad-alles-sandro-hamonangan-simanjuntak-1244ba279/
-  
+- 📄 All About Me  :  [![Linkedin Badge](https://img.shields.io/badge/-Aldowad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aldowad-alles-sandro-hamonangan-simanjuntak-1244ba279)
 - 🌍  I'm based in Medan, Sumatera Utara, Indonesia
 
 - ⚡ Fun fact **I'm Gamers**
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/aldowad-alles-sandro-hamonangan-simanjuntak-1244ba279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldowad alles sandro hamonangan simanjuntak" height="30" width="40" /></a>
 <a href="https://instagram.com/aldowad_simanjuntak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldowad_simanjuntak" height="30" width="40" /></a>
@@ -48,6 +51,6 @@
 <h2 align="left">Database :</h2>
 <p align="left"> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-
+<h2 align="left"> :fire: My Stats :</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldowadsimanjuntak&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="aldowadsimanjuntak" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldowadsimanjuntak&theme=highcontrast" alt="aldowadsimanjuntak" /></p>
