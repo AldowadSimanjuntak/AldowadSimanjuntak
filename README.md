@@ -10,18 +10,18 @@
 
 <img align="right" alt="jett" width="350" height="250" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif">
 
-- 🔭 I’m currently learning **Backend Engineering**
+- 🔭 I’m currently learning **Backend Engineering and Devops Cloud**
 
 - 💬 Ask me about **Oracle Cloud, Backend Development**
 
 - 📫 How to reach me : [![Gmail Badge](https://img.shields.io/badge/-Aldowad-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldowad02@gmail.com)](mailto:aldowad02@gmail.com)
 
 - 📄 All About Me  :  [![Linkedin Badge](https://img.shields.io/badge/-Aldowad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aldowad-alles-sandro-hamonangan-simanjuntak-1244ba279)
-- 🌍  I'm based in Medan, North Sumatera, Indonesia
+- 🌍  I'm based in **Medan, North Sumatera, Indonesia**
 
 - ⚡ Fun fact **I'm Gamers**
 
-- 🚀 Feel Free to contact me for Collaboration, Project and Work
+- 🚀 Feel Free to contact me for **Collaboration, Project and Work**
 
 
 <h2 align="left">Connect with me:</h2>
