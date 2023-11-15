@@ -6,6 +6,10 @@
 
 <h3 align="center">A passionate Cloud & Backend developer from Indonesia</h3>
 
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B1D1B044B54DA992A195CE70FCD043D0E4C5F3740C8DA6985F5138335CE757DC">
+   <img src="https://raw.githubusercontent.com/AldowadSimanjuntak/Badge/main/Badge%20Oracle%20Cloud%20Infrastructure%202023%20Certified%20DevOps%20Professional.png" alt="Oracle Cloud Infrastructure Certified DevOps Professional" width="210" height="120">
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldowadsimanjuntak&label=Visitors&color=b4190e&style=flat" alt="aldowadsimanjuntak" /> </p>
 
 <img align="right" alt="jett" width="350" height="250" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif">
