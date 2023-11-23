@@ -5,22 +5,22 @@
 </p>
 
 <h3 align="center">A passionate Cloud & Backend developer from Indonesia</h3>
-
+<h2 align="center"> 🏅 My Badge 🏅</h2>
 <div align="center">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B1D1B044B54DA992A195CE70FCD043D0E4C5F3740C8DA6985F5138335CE757DC">
-    <img src="https://raw.githubusercontent.com/AldowadSimanjuntak/Badge/main/Badge%20Oracle%20Cloud%20Infrastructure%202023%20Certified%20DevOps%20Professional.png" alt="Oracle Cloud Infrastructure Certified DevOps Professional" width="210" height="120">
+    <img src="https://raw.githubusercontent.com/AldowadSimanjuntak/Badge/main/Badge%20Oracle%20Cloud%20Infrastructure%202023%20Certified%20DevOps%20Professional.png" alt="Oracle Cloud Infrastructure Certified DevOps Professional" width="230" height="140">
   </a>
 </div>
 
 <div align="center">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=09DA50D9AEF67910756BEF49A81B6617952C2CA7939E53911C923CE4A3AC5F55">
-    <img src="https://raw.githubusercontent.com/AldowadSimanjuntak/Badge/main/Badge%20Oracle%20Cloud%20Infrastructure%20Foundation%202023.png" alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate" width="210" height="120">
+    <img src="https://raw.githubusercontent.com/AldowadSimanjuntak/Badge/main/Badge%20Oracle%20Cloud%20Infrastructure%20Foundation%202023.png" alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate" width="230" height="140">
   </a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=949ADAF9EB7BD33404540A91CC7C2AC9DE03E478BED88C2CBA48E8568B229C70">
-    <img src="https://raw.githubusercontent.com/AldowadSimanjuntak/Badge/main/Badge%20Oracle%20Cloud%20Data%20Management%202023%20Certified%20Foundations%20Associate.png" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" width="210" height="120">
+    <img src="https://raw.githubusercontent.com/AldowadSimanjuntak/Badge/main/Badge%20Oracle%20Cloud%20Data%20Management%202023%20Certified%20Foundations%20Associate.png" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" width="230" height="140">
   </a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=09DA50D9AEF67910756BEF49A81B6617952C2CA7939E53911C923CE4A3AC5F55">
-    <img src="https://raw.githubusercontent.com/AldowadSimanjuntak/Badge/main/Badge%20Oracle%20Cloud%20Infrastructure%20Foundation%202023.png" alt="Oracle Cloud Infrastructure Certified DevOps Professional" width="210" height="120">
+    <img src="https://raw.githubusercontent.com/AldowadSimanjuntak/Badge/main/Badge%20Oracle%20Cloud%20Infrastructure%20Foundation%202023.png" alt="Oracle Cloud Infrastructure Certified DevOps Professional" width="230" height="140">
   </a>
 </div>
 
@@ -37,9 +37,9 @@
 - 📫 How to reach me : [![Gmail Badge](https://img.shields.io/badge/-Aldowad-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldowad02@gmail.com)](mailto:aldowad02@gmail.com)
 
 - 📄 All About Me  :  [![Linkedin Badge](https://img.shields.io/badge/-Aldowad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aldowad-alles-sandro-hamonangan-simanjuntak-1244ba279)
-- 🌍  I'm based in **Medan, North Sumatera, Indonesia**
+- 🌍  I'm based in **Medan, North Sumatera, Indonesia** 
 
-- ⚡ Fun fact **I'm Gamers**
+- 🎮 Fun fact **I'm Gamers**
 
 - 🚀 Feel Free to contact me for **Collaboration, Project and Work**
 
@@ -58,7 +58,7 @@
  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"> </a>
 
 <h2 align="left">Frontend Development :</h2>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 <h2 align="left">Backend Development :</h2>
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
