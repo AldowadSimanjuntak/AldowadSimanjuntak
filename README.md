@@ -36,7 +36,6 @@
 
 - 📫 How to reach me : [![Gmail Badge](https://img.shields.io/badge/-Aldowad-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldowad02@gmail.com)](mailto:aldowad02@gmail.com)
 
-- 📄 All About Me  :  [![Linkedin Badge](https://img.shields.io/badge/-Aldowad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aldowad-alles-sandro-hamonangan-simanjuntak-1244ba279)
 - 🌍  I'm based in **Medan, North Sumatera, Indonesia** 
 
 - 🎮 Fun fact **I'm Gamers**
