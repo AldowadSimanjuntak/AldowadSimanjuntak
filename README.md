@@ -20,7 +20,7 @@
     <img src="https://raw.githubusercontent.com/AldowadSimanjuntak/Badge/main/Badge%20Oracle%20Cloud%20Data%20Management%202023%20Certified%20Foundations%20Associate.png" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate" width="230" height="140">
   </a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B057D1ED6BA4A5CC4CEF9614F196925CB01970FD03C281A399F4DEEBC2199914">
-    <img src="https://raw.githubusercontent.com/AldowadSimanjuntak/Badge/main/Badge%20Oracle%20Cloud%20Infrastructure%202023%20AI%20Foundations%20Associate.png" alt="Oracle Cloud Infrastructure Certified DevOps Professional" width="230" height="140">
+    <img src="https://raw.githubusercontent.com/AldowadSimanjuntak/Badge/main/Badge%20Oracle%20Cloud%20Infrastructure%202023%20AI%20Foundations%20Associate.png" alt="Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate" width="230" height="140">
   </a>
 </div>
 
