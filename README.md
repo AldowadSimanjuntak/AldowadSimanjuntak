@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">A passionate Cloud & Backend developer from Indonesia</h2>
-<h2 align="center"> 🏅 My Badge 🏅</h2>
+<h3 align="center"> 🏅 Cloud Badge 🏅</h3>
 <div align="center">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B1D1B044B54DA992A195CE70FCD043D0E4C5F3740C8DA6985F5138335CE757DC">
     <img src="https://raw.githubusercontent.com/AldowadSimanjuntak/Badge/main/Badge%20Oracle%20Cloud%20Infrastructure%202023%20Certified%20DevOps%20Professional.png" alt="Oracle Cloud Infrastructure Certified DevOps Professional" width="230" height="140">
@@ -41,15 +41,6 @@
 - 🎮 Fun fact **I'm Gamers**
 
 - 🚀 Feel Free to contact me for **Collaboration, Project and Work**
-
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/aldowadsimanjuntak"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldowad alles sandro hamonangan simanjuntak" height="30" width="40" /></a>
-<a href="https://instagram.com/aldowad_simanjuntak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldowad_simanjuntak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCo0BWB1EkA_ywfiAyC6OPOw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uco0bwb1eka_ywfiayc6opow" height="30" width="40" /></a>
-</p>
-
 
 
 <h2 align="left">Progamming Languages :</h2>
