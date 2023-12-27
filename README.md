@@ -1,11 +1,10 @@
 <h1 align="center">Hello Coders,  I'm Aldowad Simanjuntak</h1>
 
 <p align="center">
-  <img src="https://www.9to5carwallpapers.com/wp-content/uploads/2017/12/christmas-gif-card.gif" width="500" height="300" >
+  <img src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" width="500" height="300" >
 </p>
-<h1 align="center">Merry Christmas</h1>
 <h2 align="center">A passionate Cloud & Backend developer from Indonesia</h2>
-<h2 align="center"> 🏅 Cloud Badge 🏅</h2>
+<h2 align="center"> 🏅 My Cloud Badge 🏅</h2>
 <div align="center">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B1D1B044B54DA992A195CE70FCD043D0E4C5F3740C8DA6985F5138335CE757DC">
     <img src="https://raw.githubusercontent.com/AldowadSimanjuntak/Badge/main/Badge%20Oracle%20Cloud%20Infrastructure%202023%20Certified%20DevOps%20Professional.png" alt="Oracle Cloud Infrastructure Certified DevOps Professional" width="230" height="140">
