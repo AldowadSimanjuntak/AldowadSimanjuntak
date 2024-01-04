@@ -1,7 +1,7 @@
 <h1 align="center">Hello Coders,  I'm Aldowad Simanjuntak</h1>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" width="600" height="400" >
+  <img src="https://i.pinimg.com/originals/d9/e2/04/d9e204421993bf70b7bd72bbebadf0ed.gif" width="400" height="200" >
 </p>
 <h2 align="center">A passionate Cloud & Backend developer from Indonesia</h2>
 <h2 align="center"> 🏅 My Cloud Badge 🏅</h2>
