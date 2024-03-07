@@ -1,7 +1,7 @@
 <h1 align="center">Hello Coders,  I'm Aldowad Simanjuntak</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d9/e2/04/d9e204421993bf70b7bd72bbebadf0ed.gif" width="400" height="200" >
+  <img src="https://e-learning.vscht.cz/pluginfile.php/73619/mod_page/content/10/Learning%20material.gif" width="500" height="300" >
 </p>
 <h2 align="center">A passionate Cloud & Backend developer from Indonesia</h2>
 <h2 align="center"> 🏅 My Cloud Badge 🏅</h2>
