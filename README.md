@@ -57,3 +57,8 @@
 <h2 align="center"> My Github Stats </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldowadsimanjuntak" alt="aldowadsimanjuntak" /></a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldowadsimanjuntak&show_icons=true&theme=highcontrast&title_color=e20303&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="aldowadsimanjuntak" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldowadsimanjuntak&show_icons=true&theme=highcontrast&title_color=c40e32&text_color=ffffff&bg_color=000000&locale=en" alt="aldowadsimanjuntak" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aldowadsimanjuntak&theme=highcontrast" alt="aldowadsimanjuntak" /></p>
+
+
+
+### ✍️ Random Dev Quote 
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
