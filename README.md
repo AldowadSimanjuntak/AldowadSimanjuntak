@@ -55,8 +55,13 @@
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <h2 align="center"> My Github Stats </h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldowadsimanjuntak" alt="aldowadsimanjuntak" /></a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldowadsimanjuntak&show_icons=true&theme=highcontrast&title_color=e20303&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="aldowadsimanjuntak" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldowadsimanjuntak&show_icons=true&theme=highcontrast&title_color=c40e32&text_color=ffffff&bg_color=000000&locale=en" alt="aldowadsimanjuntak" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aldowadsimanjuntak&theme=highcontrast" alt="aldowadsimanjuntak" /></p>
+
+![AldowadSimanjuntak's Stats](https://github-readme-stats.vercel.app/api?username=AldowadSimanjuntak&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
+
+![AldowadSimanjuntak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AldowadSimanjuntak&theme=vision-friendly-dark&hide_border=false)
+
+![AldowadSimanjuntak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AldowadSimanjuntak&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
+
 
 
 
