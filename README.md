@@ -29,7 +29,7 @@
 
 <img align="right" alt="jett" width="350" height="250" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif">
 
-- 🔭 I’m currently learning **Backend Engineering and Devops Cloud**
+- 🔭 I’m currently learning **Backend Engineering ,Devops Cloud, and FullStack**
 
 - 💬 Ask me about **Oracle Cloud,Google Cloud Platform and Backend Development**
 
