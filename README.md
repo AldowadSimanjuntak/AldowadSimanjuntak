@@ -29,15 +29,11 @@
 
 <img align="right" alt="jett" width="350" height="250" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif">
 
-- 🔭 I’m currently learning **Backend Engineering ,Devops Cloud, and FullStack**
+- 🔭 I’m currently learning **Backend Engineering and Devops Cloud**
 
 - 💬 Ask me about **Oracle Cloud,Google Cloud Platform and Backend Development**
 
-- 📫 How to reach me : [![Gmail Badge](https://img.shields.io/badge/-Aldowad-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldowad02@gmail.com)](mailto:aldowad02@gmail.com)
-
 - 🌍  I'm based in **Medan, North Sumatera, Indonesia** 
-
-- 🎮 Fun fact **I'm Gamers**
 
 - 🚀 Feel Free to contact me for **Collaboration, Project and Work**
 
