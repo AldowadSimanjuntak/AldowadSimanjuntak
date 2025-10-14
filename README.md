@@ -29,14 +29,15 @@
 
 <img align="right" alt="jett" width="350" height="250" src="https://cdn.dribbble.com/users/2579950/screenshots/6513091/cloud_400x300.gif">
 
-- 🔭 I’m currently learning **Backend Engineering and Devops Cloud**
+☁️ Skilled in Oracle Cloud & Google Cloud Platform
 
-- 💬 Ask me about **Oracle Cloud,Google Cloud Platform and Backend Development**
+⚙️ Passionate about automation and system reliability
 
-- 🌍  I'm based in **Medan, North Sumatera, Indonesia** 
+🌍 Based in Medan, North Sumatera, Indonesia
 
-- 🚀 Feel Free to contact me for **Collaboration, Project and Work**
+🧠 Certified Backend Engineer by Ministry of Communication and Information Technology (Indonesia)
 
+🚀 Open to collaboration, freelance projects, or full-time roles
 
 <h2 align="left">Progamming Languages :</h2>
 <a href="https://javascript.com"><img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript Badge"></a><a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="TypeScript Badge"></a>
@@ -54,6 +55,7 @@
 
 ![AldowadSimanjuntak's Stats](https://github-readme-stats.vercel.app/api?username=AldowadSimanjuntak&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
 
+
 ![AldowadSimanjuntak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AldowadSimanjuntak&theme=vision-friendly-dark&hide_border=false)
 
 ![AldowadSimanjuntak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AldowadSimanjuntak&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
@@ -63,3 +65,4 @@
 
 ### ✍️  Quote of the day
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
